@@ -1,4 +1,7 @@
-Jr. Data Scientist || Geomatic Engineer
+# About Me
 
-- 🔭 I’m currently working on Data Scientist.
-- 🌱 I’m currently learning Machine Learning, Deep Learning and Django.
+My name is Cem Savas. I'm a Jr Data Scientist from Turkiye. 
+
+I'm interested in Machine Learning and Deep Learning.
+
+I also enjoy working on web scraping and using Django framework.
